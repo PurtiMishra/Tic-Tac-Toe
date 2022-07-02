@@ -10,3 +10,5 @@ Game Interface
 
 ![Screenshot (266)](https://user-images.githubusercontent.com/91051576/176990795-b57cdc1e-9bdb-47d0-a685-2a93c07b899b.png)
 
+![Screenshot (267)](https://user-images.githubusercontent.com/91051576/176990823-a602fc6d-76db-4708-bbe1-28a575b2d2af.png)
+
