@@ -6,5 +6,7 @@ This is Starting of game(Landing Page)
 
 ![Screenshot (265)](https://user-images.githubusercontent.com/91051576/176990753-5022dc87-0895-46f2-a6a9-4240c8b27ef0.png)
 
-<p>Game Interface</p>
+Game Interface
+
+![Screenshot (266)](https://user-images.githubusercontent.com/91051576/176990795-b57cdc1e-9bdb-47d0-a685-2a93c07b899b.png)
 
